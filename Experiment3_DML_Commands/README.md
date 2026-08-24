@@ -107,12 +107,11 @@ SELECT column1, column2 FROM table_name WHERE condition;
 **Question 7**
 ---
 -- Paste Question 7 here
-<img width="1121" height="719" alt="Screenshot 2026-08-24 110030" src="https://github.com/user-attachments/assets/057c172f-8e66-4d01-9823-6dabc74e0e4d" />
-
+<img width="1159" height="820" alt="Screenshot 2026-08-24 110854" src="https://github.com/user-attachments/assets/8035b2e6-2dcf-4371-8ee7-94c07689d1c6" />
 
 
 **Output:**
-<img width="1121" height="719" alt="Screenshot 2026-08-24 110030" src="https://github.com/user-attachments/assets/b744274c-eb6e-41ad-b8aa-edae2501028d" />
+<img width="1122" height="418" alt="Screenshot 2026-08-24 110902" src="https://github.com/user-attachments/assets/db3bf687-a1fd-4d1c-9d5f-0202c7c401a0" />
 
 **Question 8**
 ---

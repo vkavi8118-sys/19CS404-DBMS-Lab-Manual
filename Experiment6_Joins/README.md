@@ -94,7 +94,7 @@ ON table1.column = table2.column;
 
 **Output:**
 
-<img width="1024" height="1536" alt="479f6582-b4e9-48e3-9f80-57f2997307da" src="https://github.com/user-attachments/assets/9a2faac5-ad74-4e85-86a0-ef1330729d30" />
+<img width="1208" height="818" alt="Screenshot 2026-09-03 004425" src="https://github.com/user-attachments/assets/0efa0e2f-8f2b-4213-84d6-af189b5cda55" />
 
 
 **Question 5**
@@ -144,7 +144,6 @@ ON table1.column = table2.column;
 ---
 -- Paste Question 9 here
 
-<img width="1207" height="740" alt="Screenshot 2026-09-03 004947" src="https://github.com/user-attachments/assets/59906207-5ba6-4220-9bcd-dc975fbc3dd2" />
 
 <img width="1418" height="823" alt="Screenshot 2026-09-03 005011" src="https://github.com/user-attachments/assets/fca79c38-b028-4e8b-82e9-ccfd4488fe70" />
 
